@@ -1,2 +1,3 @@
 # HTB
-mainly focus on HTB machine walkthough
+Mainly focus on HTB machine walkthough
+DO NOT contain ctf wp from ctf.hackthebox.com
